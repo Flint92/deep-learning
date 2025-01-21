@@ -1,6 +1,6 @@
 import torch
 
-from preliminary_course.util import describe
+from preliminary_course.ndarray.util import describe
 
 
 def assign_value():

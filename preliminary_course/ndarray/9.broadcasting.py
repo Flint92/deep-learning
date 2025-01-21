@@ -1,6 +1,6 @@
 import torch
 
-from preliminary_course.util import describe
+from preliminary_course.ndarray.util import describe
 
 if __name__ == '__main__':
     a = torch.arange(3).reshape(3, 1)
